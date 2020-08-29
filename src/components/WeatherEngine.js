@@ -20,7 +20,7 @@ function WeatherEngine({ location }) {
     setLoading(true);
     try {
       const apiRes = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${q}&units=metric&appid=448ee10b28fc02a854cb816ce9f27dde`
+        `https://api.openweathermap.org/data/2.5/weather?q=${q}&units=metric&appid=448ee10b28fc02a854cb816ce9f27dde`
       );
       const resJSON = await apiRes.json();
       setWeather({
