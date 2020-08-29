@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a18932fa-b874-4e53-86c4-6bc3d58f1774/deploy-status)](https://app.netlify.com/sites/weatherapp-ract/deploys)
 
-### `[The site is live here](https://weatherapp-ract.netlify.app/)`
+### The site is live [here](https://weatherapp-ract.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
